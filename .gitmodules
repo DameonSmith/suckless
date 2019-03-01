@@ -1,0 +1,6 @@
+[submodule "st"]
+	path = st
+	url = ./dwm/
+[submodule "dwm"]
+	path = dwm
+	url = ./dwm/
